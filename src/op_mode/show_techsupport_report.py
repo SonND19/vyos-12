@@ -80,7 +80,7 @@ def show_config_file() -> None:
 
 def show_running_config() -> None:
     """Prints the running configuration."""
-    execute_command(op('show configuration'), 'Running configuration')
+    execute_command(op('show running-config '), 'Running configuration')
 
 
 def show_package_repository_config() -> None:
