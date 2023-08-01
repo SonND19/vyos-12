@@ -1,4 +1,0 @@
-data/templates/**/*.conf linguist-language=Jinja
-*.tmpl linguist-language=Jinja
-*.xml.i linguist-language=XML
-*.xml.in linguist-language=XML
